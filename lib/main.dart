@@ -11,7 +11,7 @@ void main() {
         ),
         body: Center(
           child: Image(
-            image: NetworkImage('https://images.unsplash.com/photo-1606567595334-d39972c85dbe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YmlyZHxlbnwwfHwwfHw%3D&w=1000&q=80'),
+            image: AssetImage('images/diamond.png'),
           ),
         ),
       ),
