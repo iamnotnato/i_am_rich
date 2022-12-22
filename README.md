@@ -4,4 +4,6 @@
  <h4>A simple app that replicates an app published to the App Store a long time ago.</h4> 
 
 <h4>Languages Used</h4>
-<img alt="medium" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<td><img alt="medium" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></td>
+<td><img alt="medium" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></td>
+
