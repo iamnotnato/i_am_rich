@@ -1,6 +1,8 @@
 > <h4>Project: I am Rich</h4>
-<img src="https://github.com/iamnotnato/i_am_rich/blob/main/images/i_am_rich_app_icon.png" alt="logo" title="" align="right" height="60" />
-> <p>A simple app that replicates an app published to the App Store a long time ago.</p> 
+> 
+> <img src="https://github.com/iamnotnato/i_am_rich/blob/main/images/i_am_rich_app_icon.png" alt="logo" title="" align="right" height="60" />
+> 
+> A simple app that replicates an app published to the App Store a long time ago.<
 
 
 > <h4>Languages Used</h4>
